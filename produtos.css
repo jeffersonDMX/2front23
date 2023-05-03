@@ -77,4 +77,22 @@ R$ 35,00
     padding: 40px 0;
     color: #f4f4f4;
 }
-&copy;
+form{
+    margin: 40px 0 q;
+}
+
+label{
+    font-size: 25px;
+    width: 100px;
+    display: inline-block;
+}
+input{
+    padding: 10px 25px;
+    width: 50%;
+    
+}
+button{
+    display: inline-block;
+    width: 150px;
+    padding: 10px;
+}
