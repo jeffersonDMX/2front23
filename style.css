@@ -24,8 +24,7 @@ h1,h2{
 ul{
 
     display: inline-block;
-    width: 20%;
-    margin-right: 15%;
-    vertical-align:top;
+    width: 150%;
+   padding: 10px;
 
 }
